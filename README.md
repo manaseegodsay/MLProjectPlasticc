@@ -10,7 +10,6 @@ Name: PLAsTiCC Astronomical Classification
 Data set: Kaggle dataset - Link: https://www.kaggle.com/c/PLAsTiCC-2018 
 
 The Photometric LSST Astronomical Time Series Classification Challenge (PLAsTiCC) is a Kaggle problem. The problem is to classify simulated astronomical time-series data in preparation for observations from the Large Synoptic Survey Telescope (LSST). LSST is the Telescope and the data collected from it will give a deep understanding of the changing sky, discovering and measuring millions of time-varying objects.
-
 <p>
 Two important modes for characterizing light from astronomical objects are called ‘spectroscopy’ and ‘photometry.’ We will be considering ‘photometry’.
 </p>
@@ -18,24 +17,27 @@ Two important modes for characterizing light from astronomical objects are calle
 Some Domain knowledge:
 Spectroscopy is the most accurate reliable tool for classification of astronomical transients and variables, however, it’s extremely time-consuming process. Given the volume of the data expected from the upcoming large-scale sky surveys, obtaining spectroscopic observations for every object is not feasible. 
 Compared with spectroscopy, the advantage of photometry(measuring light curves with passband observations) is that we can observe objects that are much further away and much fainter, and that one can observe many objects in a larger ﬁeld of view at the same time(rather than measuring a spectrum of one or a few objects at a time), which means it’s less time-consuming and more feasible.
-</p><p>
+</p>
+<p>
 Objective: 
 Our main task is to classify the “stars” in 14 classes using photometry data, so we don’t need expensive spectroscopy data. We will try to calculate the probabilities for each classes, so we can decide which one the object should belong to.
 The benefitters would be the astronomers, and would help them gain a deeper understanding of the objects in the Universe, being monitored by LSST with low cost.
-  </p>
-      <p>
+</p>
+<p>
 Existing tools/platforms:
 Currently similar tool does not exist. 
 </p><p>
 Challenges: 
 The main challenges are the amount of the data and the unknown patterns in the data, trying to use just light curves instead of use both light curves and spectrograph to classify the stars/objects. Each class may have different pattern through time, or have different cycle of light, it will be hard to identify the proper length of time duration we need.
-</p><p>
+</p>
+<p>
 Methodology, algorithms:
 The repository mainly separates data in two parts:
 Metadata: constant properties of different classes of star.
 Time series data: changes of lumen in multiple passbands across time (future scope)
   
-</p><p>
+</p> 
+<p>
 Data description: 
   <br>
 Metadata
@@ -53,18 +55,21 @@ flux: the measured flux (brightness) in the passband of observation as listed in
 flux_err: the uncertainty on the measurement of the flux listed above. 
 detected: If 1, the object's brightness is significantly different at the 3-sigma level relative to the reference template. 
   
-</p><p>
+</p>
+<p>
 The core algorithms we plan to use for the classification problem are: 
   <br>
 Decision trees <br>
 Logistic Regression <br>
 Additional algorithms will be tried out later after getting an understanding of the data and how it’s “spread out”. We plan to perform statistical analysis (standard deviation, mean, median, etc.) on the data to get an understanding of it’s distribution. 
-</p><p>
+</p>
+<p>
   
 Existing resources: <br>
 Paper for some domain knowledge, astronomy concepts: The Photometric LSST Astronomical Time-series Classification Challenge : https://arxiv.org/abs/1810.00001 <br>
 The PLAsTiCC Astronomy "Starter Kit": https://www.kaggle.com/michaelapers/the-plasticc-astronomy-starter-kit
-</p><p>
+</p>
+<p>
 Demonstration of the usefulness of tool: 
 <br>
 Confusion matrix with accuracy, precision and recall will be used for performance evaluation.
