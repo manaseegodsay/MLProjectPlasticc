@@ -56,8 +56,7 @@ Compared with spectroscopy, the advantage of photometry(measuring light curves w
  passband: The specific LSST passband integer, such that u, g, r, i, z, Y = 0, 1, 2, 3, 4, 5 in which it was viewed. 
  flux: the measured flux (brightness) in the passband of observation as listed in the passband column. 
  flux_err: the uncertainty on the measurement of the flux listed above. 
- detected: If 1, the object's brightness is significantly different at the 3-sigma level relative to the reference template. 
-  
+ detected: If 1, the object's brightness is significantly different at the 3-sigma level relative to the reference template.   
 </p>
 <p>
   We tried both Binary and Mutli- classification for the data with the given algorithms
@@ -73,26 +72,26 @@ SVM
   <br>
 Gradient Boosting
 </p>
+<p>Code files:
+<br>
+1. Data: training_set.csv.zip, training_set_metadata
+<br>
+2. Stars - Split_Train_Validation.ipynb : Splitting data into training and testing set
+<br>
+3. binary_classification.ipynb : Pre-processing and models for Binary classification
+<br>
+4. Stars-Exploratory Data Analysis.ipynb: Exploratory Data Analysis for Multi-classification
+<br>
+5. Stars- Data Engineering and Multi-Classifier Model Building.ipynb : Data Engineering and Models for multi-classification
+<br>
+</p>
 <p>
-  
-  Code files:
-  <br>
-  1. Data: training_set.csv.zip, training_set_metadata
-  <br>
-  2. Stars - Split_Train_Validation.ipynb : Splitting data into training and testing set
-  <br>
-  3. binary_classification.ipynb : Pre-processing and models for Binary classification
-  <br>
-  4. Stars-Exploratory Data Analysis.ipynb: Exploratory Data Analysis for Multi-classification
-  <br>
-  5. Stars- Data Engineering and Multi-Classifier Model Building.ipynb : Data Engineering and Models for multi-classification
-  <br></p>
-  <p>
-  Existing resources: 
-  <br>
-  Paper for some domain knowledge, astronomy concepts: The Photometric LSST Astronomical Time-series Classification 
-  Challenge: https://arxiv.org/abs/1810.00001 <br>
- The PLAsTiCC Astronomy "Starter Kit": https://www.kaggle.com/michaelapers/the-plasticc-astronomy-starter-kit
+Existing resources: 
+<br>
+Paper for some domain knowledge, astronomy concepts: The Photometric LSST Astronomical Time-series Classification 
+Challenge: https://arxiv.org/abs/1810.00001 
+<br>
+The PLAsTiCC Astronomy "Starter Kit": https://www.kaggle.com/michaelapers/the-plasticc-astronomy-starter-kit
 </p>
 <p>
  Demonstration of the usefulness of tool: 
