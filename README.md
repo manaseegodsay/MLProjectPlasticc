@@ -59,10 +59,10 @@ Compared with spectroscopy, the advantage of photometry(measuring light curves w
  detected: If 1, the object's brightness is significantly different at the 3-sigma level relative to the reference template.   
 </p>
 <p>
-  We tried both Binary and Mutli- classification for the data with the given algorithms
+  We tried both Binary and Mutli- classification for the data with the given algorithms.
  The core algorithms we used for the classification problem are: 
  <br> 
- Decsion trees
+ Decision trees
  <br>
  Logistic Regression 
  <br>
@@ -98,3 +98,5 @@ The PLAsTiCC Astronomy "Starter Kit": https://www.kaggle.com/michaelapers/the-pl
  <br>
  Confusion matrix with accuracy, precision and recall will be used for performance evaluation.
 </p>
+
+Refer to Final Project Presentation.ppt.
