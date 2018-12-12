@@ -80,9 +80,25 @@ Gradient Boosting
 <br>
 3. binary_classification.ipynb : Pre-processing and models for Binary classification
 <br>
+Binary classification: Logistic Regression, Decision Tree, Random Forest, Gradient boosting, SVM
+<br>
 4. Stars-Exploratory Data Analysis.ipynb: Exploratory Data Analysis for Multi-classification
 <br>
+
 5. Stars- Data Engineering and Multi-Classifier Model Building.ipynb : Data Engineering and Models for multi-classification
+<br>
+Feature Extraction with Statistical Methods 
+<br>
+Feature Extraction with customized function
+<br>
+Feature Normalization with MinMaxScaler 
+<br>
+Feature Transformation with LDA
+<br>
+Multiple classification: Logistic Regression,
+Random Forest,
+Gradient boosting,
+SVM
 <br>
 </p>
 <p>
