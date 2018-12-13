@@ -52,7 +52,7 @@ Compared with spectroscopy, the advantage of photometry(measuring light curves w
  target: The class of the astronomical source.
  <br>
  </p>
-![Image2](https://github.com/manaseegodsay/MLProjectPlasticc/blob/master/download.png)
+![Image2](download.png)
  <br>
  <p>
  Data description: 
@@ -122,7 +122,7 @@ The PLAsTiCC Astronomy "Starter Kit": https://www.kaggle.com/michaelapers/the-pl
  Confusion matrix with accuracy, precision and recall will be used for performance evaluation.
  <br>
 </p>
-![Image3](https://github.com/manaseegodsay/MLProjectPlasticc/blob/master/download%20(1).png)
+![Image3](download(1).png)
 <br>
 
 Refer to Final Project Presentation.ppt.
