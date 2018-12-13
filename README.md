@@ -51,8 +51,10 @@ Compared with spectroscopy, the advantage of photometry(measuring light curves w
  mwebv: MW E(B-V). This ‘extinction’ of light is a property of the Milky Way (MW) dust along the line of sight to the astronomical source, and is thus a function of the sky coordinates of the source ra, decl. 
  target: The class of the astronomical source.
  <br>
+ </p>
 ![Image2](https://github.com/manaseegodsay/MLProjectPlasticc/edit/master/download.png)
  <br>
+ <p>
  Data description: 
  <br>
  Time-Series data (for training model)
@@ -119,7 +121,8 @@ The PLAsTiCC Astronomy "Starter Kit": https://www.kaggle.com/michaelapers/the-pl
  <br>
  Confusion matrix with accuracy, precision and recall will be used for performance evaluation.
  <br>
-![Image3](https://github.com/manaseegodsay/MLProjectPlasticc/edit/master/download(1).png)
 </p>
+![Image3](https://github.com/manaseegodsay/MLProjectPlasticc/edit/master/download(1).png)
+<br>
 
 Refer to Final Project Presentation.ppt.
