@@ -1,6 +1,6 @@
 <center>
   
- # CS 539: Machine Learning - Project Proposal
+ # CS 539: Machine Learning - Project
  # Team “Stars”
  # Yao-Chun Hsieh, Manasee Godsay, Nathan Hsu, Wei Zhao
  
