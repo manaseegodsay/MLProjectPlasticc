@@ -12,7 +12,7 @@
  Data set: Kaggle dataset - Link: https://www.kaggle.com/c/PLAsTiCC-2018 
 </p>
 <br>
-![Image1](https://github.com/manaseegodsay/MLProjectPlasticc/edit/master/images.jpg)
+![Image1](https://github.com/manaseegodsay/MLProjectPlasticc/blob/master/images.jpg)
 <p>
  The Photometric LSST Astronomical Time Series Classification Challenge (PLAsTiCC) is a Kaggle problem. The problem is to classify simulated astronomical time-series data in preparation for observations from the Large Synoptic Survey Telescope (LSST). LSST is the Telescope and the data collected from it will give a deep understanding of the changing sky, discovering and measuring millions of time-varying objects.
 <p>
@@ -52,7 +52,7 @@ Compared with spectroscopy, the advantage of photometry(measuring light curves w
  target: The class of the astronomical source.
  <br>
  </p>
-![Image2](https://github.com/manaseegodsay/MLProjectPlasticc/edit/master/download.png)
+![Image2](https://github.com/manaseegodsay/MLProjectPlasticc/blob/master/download.png)
  <br>
  <p>
  Data description: 
@@ -122,7 +122,7 @@ The PLAsTiCC Astronomy "Starter Kit": https://www.kaggle.com/michaelapers/the-pl
  Confusion matrix with accuracy, precision and recall will be used for performance evaluation.
  <br>
 </p>
-![Image3](https://github.com/manaseegodsay/MLProjectPlasticc/edit/master/download(1).png)
+![Image3](https://github.com/manaseegodsay/MLProjectPlasticc/blob/master/download%20(1).png)
 <br>
 
 Refer to Final Project Presentation.ppt.
