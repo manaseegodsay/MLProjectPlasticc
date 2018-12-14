@@ -80,17 +80,17 @@ Gradient Boosting
 </p>
 <p>Code files:
 <br>
-- 1. Data: training_set.csv.zip, training_set_metadata
+1. Data: training_set.csv.zip, training_set_metadata
 <br>
-- 2. Stars - Split_Train_Validation.ipynb : Splitting data into training and testing set
+2. Stars - Split_Train_Validation.ipynb : Splitting data into training and testing set
 <br>
-- 3. binary_classification.ipynb : Pre-processing and models for Binary classification
+3. binary_classification.ipynb : Pre-processing and models for Binary classification
 <br>
 Binary classification: Logistic Regression, Decision Tree, Random Forest, Gradient boosting, SVM
 <br>
-- 4. Stars-Exploratory Data Analysis.ipynb: Exploratory Data Analysis for Multi-classification
+4. Stars-Exploratory Data Analysis.ipynb: Exploratory Data Analysis for Multi-classification
 <br>
-- 5. Stars- Data Engineering and Multi-Classifier Model Building.ipynb : Data Engineering and Models for multi-classification
+5. Stars- Data Engineering and Multi-Classifier Model Building.ipynb : Data Engineering and Models for multi-classification
 <br>
 Feature Extraction with Statistical Methods 
 <br>
@@ -101,10 +101,10 @@ Feature Normalization with MinMaxScaler
 Feature Transformation with LDA
 <br>
 Multiple classification: 
-- Logistic Regression,
-- Random Forest,
-- Gradient boosting,
-- SVM
+-Logistic Regression,
+-Random Forest,
+-Gradient boosting,
+-SVM
 <br>
 </p>
 <p>
