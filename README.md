@@ -91,10 +91,8 @@ Binary classification: Logistic Regression, Decision Tree, Random Forest, Gradie
 4. Stars-Exploratory Data Analysis.ipynb: Exploratory Data Analysis for Multi-classification
 <br>
 5. Stars- Data Engineering and Multi-Classifier Model Building.ipynb : Data Engineering and Models for multi-classification
-<br>
-Feature Extraction with Statistical Methods 
-<br>
-Feature Extraction with customized function
+   - Feature Extraction with Statistical Methods 
+   - Feature Extraction with customized function
 <br>
 Feature Normalization with MinMaxScaler 
 <br>
