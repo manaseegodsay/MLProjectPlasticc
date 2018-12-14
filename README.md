@@ -4,13 +4,13 @@
   Yao-Chun Hsieh<br>Manasee Godsay<br>Nathan Hsu<br>Wei Zhao
 </p>
 
-<center>
+
 ### Project Details:  
 Name: PLAsTiCC Astronomical Classification  
 Data set: Kaggle dataset - Link: https://www.kaggle.com/c/PLAsTiCC-2018  
 ![Image1](images.jpg)  
 https://www.lsst.org/
-</center>
+
 
 The Photometric LSST Astronomical Time Series Classification Challenge (PLAsTiCC) is a Kaggle problem. The problem is to classify simulated astronomical time-series data in preparation for observations from the Large Synoptic Survey Telescope (LSST). LSST is the Telescope and the data collected from it will give a deep understanding of the changing sky, discovering and measuring millions of time-varying objects.  
 Two important modes for characterizing light from astronomical objects are called ‘spectroscopy’ and ‘photometry.’ We will be considering ‘photometry’.
