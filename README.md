@@ -1,8 +1,8 @@
 <h1 align="center">Stars</h>
-<p align="right"><b>
+<p align="right">
   CS 539: Machine Learning - Project<br>
   Yao-Chun Hsieh<br>Manasee Godsay<br>Nathan Hsu<br>Wei Zhao
-</b></p>
+</p>
 
 ### Project Details:  
 Name: PLAsTiCC Astronomical Classification  
