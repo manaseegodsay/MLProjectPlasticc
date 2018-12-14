@@ -1,4 +1,4 @@
-<h1 align="center">Stars</h>
+<h1 align="center">Stars</h1>
 <p>
   CS 539: Machine Learning - Project<br>
   Yao-Chun Hsieh<br>Manasee Godsay<br>Nathan Hsu<br>Wei Zhao
