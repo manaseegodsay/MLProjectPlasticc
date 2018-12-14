@@ -1,8 +1,8 @@
-<h1 align="center">Stars</h1>
-<p>
+<center>
+  Stars - 
   CS 539: Machine Learning - Project<br>
   Yao-Chun Hsieh<br>Manasee Godsay<br>Nathan Hsu<br>Wei Zhao
-</p>
+</center>
 
 
 ### Project Details:  
@@ -11,10 +11,9 @@ Data set: Kaggle dataset - Link: https://www.kaggle.com/c/PLAsTiCC-2018
 ![Image1](images.jpg)  
 https://www.lsst.org/
 
-
 The Photometric LSST Astronomical Time Series Classification Challenge (PLAsTiCC) is a Kaggle problem. The problem is to classify simulated astronomical time-series data in preparation for observations from the Large Synoptic Survey Telescope (LSST). LSST is the Telescope and the data collected from it will give a deep understanding of the changing sky, discovering and measuring millions of time-varying objects.  
 Two important modes for characterizing light from astronomical objects are called ‘spectroscopy’ and ‘photometry.’ We will be considering ‘photometry’.
- 
+
 ### Some Domain knowledge:
 Spectroscopy is the most accurate reliable tool for classification of astronomical transients and variables, however, it’s extremely time-consuming process. Given the volume of the data expected from the upcoming large-scale sky surveys, obtaining spectroscopic observations for every object is not feasible. 
 Compared with spectroscopy, the advantage of photometry(measuring light curves with passband observations) is that we can observe objects that are much further away and much fainter, and that one can observe many objects in a larger ﬁeld of view at the same time(rather than measuring a spectrum of one or a few objects at a time), which means it’s less time-consuming and more feasible.
